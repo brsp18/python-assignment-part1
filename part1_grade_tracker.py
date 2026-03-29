@@ -1,4 +1,4 @@
-from os import name
+
 
 #Task 1 — Data Parsing & Profile Cleaning
 
