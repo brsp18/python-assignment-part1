@@ -96,6 +96,7 @@ print("Average Marks:", average_marks)
 print("Minimum Marks:", Min_marks)
 print("Maximum Marks:", Max_marks)
 print("\n")
+
    #3.  while loop, simulate a marks-entry system
 
 while True:
